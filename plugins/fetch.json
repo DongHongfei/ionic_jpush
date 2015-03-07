@@ -1,0 +1,27 @@
+{
+    "org.apache.cordova.device": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.device"
+        }
+    },
+    "org.apache.cordova.console": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.console"
+        }
+    },
+    "com.ionic.keyboard": {
+        "source": {
+            "type": "registry",
+            "id": "com.ionic.keyboard"
+        }
+    },
+    "cn.jpush.phonegap.JPushPlugin": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/DongHongfei/jpush-phonegap-plugin.git",
+            "subdir": "."
+        }
+    }
+}
